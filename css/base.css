@@ -328,7 +328,7 @@ li {
 }
 
 /**
- * links - (_basic.scss)
+ * links - 
  * ------------------------------------------------------------------- 
  */
 a {
@@ -341,7 +341,7 @@ a img {
 }
 
 /**
- * inputs - (_basic.scss)
+ * inputs - 
  * ------------------------------------------------------------------- 
  */
 fieldset {
@@ -564,7 +564,7 @@ textarea {
 }
 
 /**
- * small mobile devices - (_grid.scss)
+ * small mobile devices - 
  * --------------------------------------------------------------- 
  */
 @media screen and (max-width:400px) {
@@ -592,7 +592,7 @@ textarea {
 
 /** 
  * ===================================================================
- * block grids - (_grid.scss)
+ * block grids - 
  *
  * ------------------------------------------------------------------- 
  */
@@ -634,7 +634,6 @@ textarea {
 }
 
 /**
- * small screens - (_grid.scss)
  * --------------------------------------------------------------- 
  */
 @media screen and (max-width:1024px) {
@@ -673,7 +672,6 @@ textarea {
 }
 
 /**
- * tablets - (_grid.scss)
  * --------------------------------------------------------------- 
  */
 @media screen and (max-width:768px) {
@@ -712,7 +710,6 @@ textarea {
 }
 
 /**
- * large mobile devices - (_grid.scss)
  * --------------------------------------------------------------- 
  */
 @media screen and (max-width:600px) {
@@ -751,7 +748,6 @@ textarea {
 }
 
 /**
- * stack on small mobile devices - (_grid.scss)
  * --------------------------------------------------------------- 
  */
 @media screen and (max-width:400px) {
@@ -767,7 +763,7 @@ textarea {
 
 /** 
  * ===================================================================
- * 04. MISC  - (_grid.scss)
+ * 04. MISC  - 
  *
  * ------------------------------------------------------------------- 
  */
@@ -846,5 +842,3 @@ textarea {
 	margin-right: auto;
 	text-align: center;
 }
-
-/*# sourceMappingURL=base.css.map */
